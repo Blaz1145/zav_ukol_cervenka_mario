@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using UTBAirlines.Infrastructure.Database;
+using UTBAirlines.Application.Abstraction;
+using UTBAirlines.Application.Implementation;
+using UTBAirlines.Domain.Repositories;
+using UTBAirlines.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +15,9 @@ ServerVersion serverVersion = ServerVersion.AutoDetect(connectionString);
 
 builder.Services.AddDbContext<LetenkaDbContext>(options =>
     options.UseMySql(connectionString, serverVersion));
+
+builder.Services.AddScoped<ILetenkaRepository, LetenkaRepository>();
+builder.Services.AddScoped<ILetenkaAppService, LetenkaAppService>();
 
 var app = builder.Build();
 
