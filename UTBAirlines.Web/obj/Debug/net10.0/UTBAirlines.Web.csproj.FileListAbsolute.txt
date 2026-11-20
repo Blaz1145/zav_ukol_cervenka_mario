@@ -193,3 +193,4 @@ C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Web\bin\Debug\n
 C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Web\obj\Debug\net10.0\compressed\rsva9ac3l7-{0}-yw03kgv7zn-yw03kgv7zn.gz

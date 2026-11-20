@@ -1,0 +1,23 @@
+﻿.it-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;      /* vodorovne na stred */
+    justify-content: center;  /* zvisle na stred */
+    min-height: 70vh;
+    text-align: center;
+}
+
+.it-content img {
+    max-width: 600px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.it-content small {
+    margin-top: 6px;
+}
+
+.it-content p {
+    margin-top: 16px;
+    font-size: 1.2rem;
+}
