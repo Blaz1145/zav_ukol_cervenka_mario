@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTBAirlines.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+372396d56b3ebaac82e0ee0e51df4e905efd7e9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11ef8cfb0b54715e6d3869f0fc23efe7359b74dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTBAirlines.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTBAirlines.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

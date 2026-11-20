@@ -1,0 +1,26 @@
+﻿@using UTBAirlines.Domain.Entities
+@model IList<Letenka>
+@{
+    ViewData["Title"] = "UTB Airlines";
+}
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Destinace</th>
+        <th>Cena</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var letenka in Model)
+    {
+        <tr>
+            <td>@letenka.Id</td>
+            <td>@letenka.Destinace</td>
+            <td>@letenka.Cena Kč</td>
+        </tr>
+    }
+    </tbody>
+</table>
