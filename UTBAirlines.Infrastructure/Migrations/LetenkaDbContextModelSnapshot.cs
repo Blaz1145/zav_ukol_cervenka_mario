@@ -39,6 +39,26 @@ namespace UTBAirlines.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Letenky");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Cena = 1500.0,
+                            Destinace = "Praha"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Cena = 3200.0,
+                            Destinace = "Londýn"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Cena = 15000.0,
+                            Destinace = "New York"
+                        });
                 });
 #pragma warning restore 612, 618
         }
