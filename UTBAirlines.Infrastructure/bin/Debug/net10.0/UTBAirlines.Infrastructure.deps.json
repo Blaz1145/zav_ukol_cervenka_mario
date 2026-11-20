@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UTBAirlines.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UTBAirlines.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UTBAirlines.Infrastructure.dll": {}
+        }
+      },
+      "UTBAirlines.Domain/1.0.0": {
+        "runtime": {
+          "UTBAirlines.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTBAirlines.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTBAirlines.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

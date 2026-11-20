@@ -6,4 +6,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\UTBAirlines.Application\UTBAirlines.Application.csproj" />
+      <ProjectReference Include="..\UTBAirlines.Domain\UTBAirlines.Domain.csproj" />
+      <ProjectReference Include="..\UTBAirlines.Infrastructure\UTBAirlines.Infrastructure.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="UTBAirlines.Application/UTBAirlines.Application.csproj" />
+  <Project Path="UTBAirlines.Domain/UTBAirlines.Domain.csproj" />
+  <Project Path="UTBAirlines.Infrastructure/UTBAirlines.Infrastructure.csproj" />
   <Project Path="UTBAirlines.Web/UTBAirlines.Web.csproj" />
 </Solution>

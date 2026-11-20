@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "UTBAirlines.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "UTBAirlines.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UTBAirlines.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UTBAirlines.Application.dll": {}
+        }
+      },
+      "UTBAirlines.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/UTBAirlines.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UTBAirlines.Domain.dll": {}
+        }
+      },
+      "UTBAirlines.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "UTBAirlines.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UTBAirlines.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UTBAirlines.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "UTBAirlines.Application/1.0.0": {
+      "type": "project",
+      "path": "../UTBAirlines.Application/UTBAirlines.Application.csproj",
+      "msbuildProject": "../UTBAirlines.Application/UTBAirlines.Application.csproj"
+    },
+    "UTBAirlines.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UTBAirlines.Domain/UTBAirlines.Domain.csproj",
+      "msbuildProject": "../UTBAirlines.Domain/UTBAirlines.Domain.csproj"
+    },
+    "UTBAirlines.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../UTBAirlines.Infrastructure/UTBAirlines.Infrastructure.csproj",
+      "msbuildProject": "../UTBAirlines.Infrastructure/UTBAirlines.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "UTBAirlines.Application >= 1.0.0",
+      "UTBAirlines.Domain >= 1.0.0",
+      "UTBAirlines.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\42194\\.nuget\\packages\\": {},
@@ -40,7 +97,17 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\42194\\RiderProjects\\zav_ukol_cervenka_mario\\UTBAirlines.Application\\UTBAirlines.Application.csproj": {
+              "projectPath": "C:\\Users\\42194\\RiderProjects\\zav_ukol_cervenka_mario\\UTBAirlines.Application\\UTBAirlines.Application.csproj"
+            },
+            "C:\\Users\\42194\\RiderProjects\\zav_ukol_cervenka_mario\\UTBAirlines.Domain\\UTBAirlines.Domain.csproj": {
+              "projectPath": "C:\\Users\\42194\\RiderProjects\\zav_ukol_cervenka_mario\\UTBAirlines.Domain\\UTBAirlines.Domain.csproj"
+            },
+            "C:\\Users\\42194\\RiderProjects\\zav_ukol_cervenka_mario\\UTBAirlines.Infrastructure\\UTBAirlines.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\42194\\RiderProjects\\zav_ukol_cervenka_mario\\UTBAirlines.Infrastructure\\UTBAirlines.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

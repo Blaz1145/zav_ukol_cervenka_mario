@@ -1,0 +1,16 @@
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\bin\Debug\net10.0\UTBAirlines.Infrastructure.deps.json
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\bin\Debug\net10.0\UTBAirlines.Infrastructure.dll
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\bin\Debug\net10.0\UTBAirlines.Infrastructure.pdb
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\bin\Debug\net10.0\UTBAirlines.Domain.dll
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\bin\Debug\net10.0\UTBAirlines.Domain.pdb
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.AssemblyInfo.cs
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.sourcelink.json
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirli.0737F359.Up2Date
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.dll
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\refint\UTBAirlines.Infrastructure.dll
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\UTBAirlines.Infrastructure.pdb
+C:\Users\42194\RiderProjects\zav_ukol_cervenka_mario\UTBAirlines.Infrastructure\obj\Debug\net10.0\ref\UTBAirlines.Infrastructure.dll
